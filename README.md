@@ -1,3 +1,8 @@
+```diff
+- THIS REPO IS OBSOLETE.  MongoDB is now installable via apt-get on Raspberry Pi. -
+```
+
+
 mongo4pi
 ========
 
